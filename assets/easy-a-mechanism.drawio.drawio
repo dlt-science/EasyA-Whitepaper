@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="994" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,7 +564,7 @@
         </mxCell>
         <mxCell id="Y5sjMR6h8wulkJzE1w5O-6" value="send&amp;nbsp;&lt;div&gt;rewards&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#B85450;" vertex="1" connectable="0" parent="9rMBR4lBTb4ewaEc-rJ9-21">
           <mxGeometry x="0.001" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y5sjMR6h8wulkJzE1w5O-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.163;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.79;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#82B366;" edge="1" parent="1" source="QG0_luw9oFEpV3Npjxh_-5" target="FT3UAqSucombnj-CKR5I-1">
@@ -618,6 +618,19 @@
         </mxCell>
         <mxCell id="QG0_luw9oFEpV3Npjxh_-5" value="&lt;font face=&quot;Helvetica&quot; style=&quot;text-wrap-mode: nowrap;&quot;&gt;EASYA&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Developers&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="250" y="336" width="99" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XJRM4q0d4K6PR2-HvzXM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.803;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#82B366;" edge="1" parent="1" source="QG0_luw9oFEpV3Npjxh_-4" target="FT3UAqSucombnj-CKR5I-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="455" />
+              <mxPoint x="552" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJRM4q0d4K6PR2-HvzXM-4" value="&lt;span style=&quot;color: rgb(130, 179, 102);&quot;&gt;pay&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;color: rgb(130, 179, 102);&quot;&gt;performance&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));&quot;&gt;fees&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XJRM4q0d4K6PR2-HvzXM-3">
+          <mxGeometry x="-0.0713" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
