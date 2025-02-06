@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="621" dy="357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,7 +535,7 @@
         </mxCell>
         <mxCell id="Y5sjMR6h8wulkJzE1w5O-10" value="&lt;font style=&quot;color: rgb(130, 179, 102);&quot;&gt;pay transaction&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(130, 179, 102);&quot;&gt;management &amp;amp; performance fees&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9rMBR4lBTb4ewaEc-rJ9-17">
           <mxGeometry x="-0.0138" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9rMBR4lBTb4ewaEc-rJ9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.459;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.471;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#82B366;" parent="1" edge="1" target="FT3UAqSucombnj-CKR5I-1" source="FT3UAqSucombnj-CKR5I-15">
