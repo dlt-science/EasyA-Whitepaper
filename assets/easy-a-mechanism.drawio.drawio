@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="1565" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,9 +462,6 @@
         </mxCell>
         <mxCell id="9rMBR4lBTb4ewaEc-rJ9-2" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;L1 Protocols&lt;/span&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#FDF2E4;" parent="1" vertex="1">
           <mxGeometry x="243" y="688" width="120" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="9rMBR4lBTb4ewaEc-rJ9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.094;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4JL5O36D9fZksu2ppTtk-1" target="DxbSY8ah_TomcMILU6TM-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rMBR4lBTb4ewaEc-rJ9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4JL5O36D9fZksu2ppTtk-1" edge="1">
           <mxGeometry relative="1" as="geometry">
