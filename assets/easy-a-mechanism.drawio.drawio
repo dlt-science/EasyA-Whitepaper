@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.14" pages="3">
   <diagram id="zzCVB0pvgGECxzNero8a" name="mechanism">
-    <mxGraphModel dx="-21" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="382" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -572,7 +572,7 @@
         <mxCell id="1K1NUbmSU6vU0BT-llFm-147" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Developers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1637" y="738.2699999999999" width="139" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="1K1NUbmSU6vU0BT-llFm-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;exitX=-0.007;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" edge="1" parent="1" source="1K1NUbmSU6vU0BT-llFm-150" target="1K1NUbmSU6vU0BT-llFm-126">
+        <mxCell id="1K1NUbmSU6vU0BT-llFm-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;exitX=-0.007;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;endArrow=block;endFill=0;" edge="1" parent="1" source="1K1NUbmSU6vU0BT-llFm-150" target="1K1NUbmSU6vU0BT-llFm-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1898" y="1295" />
