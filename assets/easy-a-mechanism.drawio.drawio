@@ -839,7 +839,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="1390" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1204,7 +1204,7 @@
           <mxGeometry x="1683" y="1033" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JUsAy2kt44GT7GJY4mu-11" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(230, 163, 101), rgb(138, 80, 27)); background-color: transparent;&quot;&gt;$SOL&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$XRP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$DOT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1298" y="1044" width="60" height="30" as="geometry" />
+          <mxGeometry x="1296" y="1041" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JUsAy2kt44GT7GJY4mu-12" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY, $SOL, $XRP, $DOT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1457" y="803" width="248" height="30" as="geometry" />
