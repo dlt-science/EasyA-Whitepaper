@@ -839,12 +839,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="382" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="idM5lJY8iGOTKUZc9Aj--1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=0;tabHeight=0;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#F5F5F5;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="1208" y="790" width="773" height="680" as="geometry" />
+          <mxGeometry x="1208" y="790" width="773" height="676" as="geometry" />
         </mxCell>
         <mxCell id="6FpRVTVLV7hesDdhC65f-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#82B366;endArrow=none;startFill=1;startArrow=classic;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -852,7 +852,7 @@
             <mxPoint x="1822" y="1129.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FpRVTVLV7hesDdhC65f-139" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;send profits&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#82B366;" parent="6FpRVTVLV7hesDdhC65f-138" vertex="1" connectable="0">
+        <mxCell id="6FpRVTVLV7hesDdhC65f-139" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;send profits&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#82B366;labelBackgroundColor=#F5F5F5;" parent="6FpRVTVLV7hesDdhC65f-138" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
@@ -866,7 +866,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FpRVTVLV7hesDdhC65f-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;launch projects&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#82B366;" parent="6FpRVTVLV7hesDdhC65f-144" vertex="1" connectable="0">
+        <mxCell id="6FpRVTVLV7hesDdhC65f-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;launch projects&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#82B366;labelBackgroundColor=#F5F5F5;" parent="6FpRVTVLV7hesDdhC65f-144" vertex="1" connectable="0">
           <mxGeometry x="-0.1404" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
@@ -1176,7 +1176,7 @@
         <mxCell id="-JUsAy2kt44GT7GJY4mu-1" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1879" y="1017" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-JUsAy2kt44GT7GJY4mu-2" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&amp;lt;-&amp;gt; $TOKEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-JUsAy2kt44GT7GJY4mu-2" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&amp;lt;-&amp;gt; $TOKEN&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1568.5" y="853" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JUsAy2kt44GT7GJY4mu-3" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$TOKEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1203,7 +1203,7 @@
         <mxCell id="-JUsAy2kt44GT7GJY4mu-10" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$TOKEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1683" y="1033" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-JUsAy2kt44GT7GJY4mu-11" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$SOL&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$XRP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$DOT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-JUsAy2kt44GT7GJY4mu-11" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(230, 163, 101), rgb(138, 80, 27)); background-color: transparent;&quot;&gt;$SOL&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$XRP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$DOT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1298" y="1044" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JUsAy2kt44GT7GJY4mu-12" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY, $SOL, $XRP, $DOT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1230,11 +1230,14 @@
         <mxCell id="-JUsAy2kt44GT7GJY4mu-17" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1428" y="909" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="idM5lJY8iGOTKUZc9Aj--2" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;EASY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="idM5lJY8iGOTKUZc9Aj--2" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1431" y="1097" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="idM5lJY8iGOTKUZc9Aj--3" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;EASY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="idM5lJY8iGOTKUZc9Aj--3" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$EASY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1431" y="1147.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idM5lJY8iGOTKUZc9Aj--4" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(230, 163, 101), rgb(138, 80, 27)); background-color: transparent;&quot;&gt;EASY&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(230, 163, 101), rgb(138, 80, 27)); background-color: transparent;&quot;&gt;$TOKEN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1527" y="1001" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
