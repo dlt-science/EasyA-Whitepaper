@@ -839,12 +839,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8NQbzxWDOkvfS47fOvNR" name="tokenomics">
-    <mxGraphModel dx="440" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1390" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="idM5lJY8iGOTKUZc9Aj--1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=0;tabHeight=0;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#F5F5F5;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="1208" y="790" width="773" height="676" as="geometry" />
+          <mxGeometry x="1211" y="790" width="770" height="676" as="geometry" />
         </mxCell>
         <mxCell id="6FpRVTVLV7hesDdhC65f-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#82B366;endArrow=none;startFill=1;startArrow=classic;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
