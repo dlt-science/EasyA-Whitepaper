@@ -833,7 +833,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iBjPeudD8dskmJpgHpPZ-5" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;submit&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;request&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="iBjPeudD8dskmJpgHpPZ-3">
+        <mxCell id="iBjPeudD8dskmJpgHpPZ-5" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;forward&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;request&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="iBjPeudD8dskmJpgHpPZ-3">
           <mxGeometry x="0.6205" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="-2" as="offset" />
           </mxGeometry>
@@ -850,7 +850,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iBjPeudD8dskmJpgHpPZ-6" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;send&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;response&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="iBjPeudD8dskmJpgHpPZ-4">
+        <mxCell id="iBjPeudD8dskmJpgHpPZ-6" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;forward&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;response&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="iBjPeudD8dskmJpgHpPZ-4">
           <mxGeometry x="0.7325" relative="1" as="geometry">
             <mxPoint y="7" as="offset" />
           </mxGeometry>
@@ -859,7 +859,7 @@
           <mxGeometry x="598" y="1175" width="96" height="47" as="geometry" />
         </mxCell>
         <mxCell id="dPnAPEly1QyAMNDl8HbZ-2" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;User dApp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="593" y="1182" width="108" height="35" as="geometry" />
+          <mxGeometry x="592" y="1182" width="108" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dPnAPEly1QyAMNDl8HbZ-3" value="" style="shape=module;jettyWidth=9;jettyHeight=2;" vertex="1" parent="1">
           <mxGeometry x="671.9999999999995" y="1177" width="20" height="11" as="geometry" />
@@ -891,22 +891,6 @@
         </mxCell>
         <mxCell id="dPnAPEly1QyAMNDl8HbZ-14" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Investors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="8.5" y="738.9999999999999" width="115" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="dPnAPEly1QyAMNDl8HbZ-16" value="" style="strokeWidth=1.5;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;strokeColor=#D79B00;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="33.34999999999991" y="748.33" width="65.3" height="186.69" as="geometry" />
-        </mxCell>
-        <mxCell id="dPnAPEly1QyAMNDl8HbZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.542;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.851;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dPnAPEly1QyAMNDl8HbZ-16" target="1K1NUbmSU6vU0BT-llFm-122">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-41" y="839" />
-              <mxPoint x="-41" y="926" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DgjRW3GmhWD0Mtf4m-Rl-1" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 17px;&quot;&gt;provide&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(230, 163, 101), rgb(138, 80, 27)); font-size: 17px; background-color: light-dark(rgb(245, 245, 245), rgb(26, 26, 26));&quot;&gt;funding&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;" vertex="1" connectable="0" parent="dPnAPEly1QyAMNDl8HbZ-17">
-          <mxGeometry x="0.3503" y="-2" relative="1" as="geometry">
-            <mxPoint x="-24" y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
