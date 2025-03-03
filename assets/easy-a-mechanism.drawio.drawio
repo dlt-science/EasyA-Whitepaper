@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muqAnL8DT2wGLeviXGC5" name="interop">
-    <mxGraphModel dx="-1699" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1417" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1680,10 +1680,13 @@
           <mxGeometry x="2879.5" y="277" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EPUoAkjzUvRCnLGf6p5H-10" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$ETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3080" y="249" width="48" height="16" as="geometry" />
+          <mxGeometry x="2985" y="250" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EPUoAkjzUvRCnLGf6p5H-11" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$WETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2915" y="66" width="48" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUoAkjzUvRCnLGf6p5H-13" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$ETH &amp;gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$WETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2932" y="155" width="99" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
