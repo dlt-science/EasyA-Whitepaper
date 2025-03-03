@@ -1381,7 +1381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mezJEJpERXzXheBWTv7M" name="fee">
-    <mxGraphModel dx="-1496" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1876" dy="336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1451,7 +1451,7 @@
           <mxGeometry x="3041.5" y="185" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GfAPWV-OAkhMP6sfTaOb-10" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USDC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2716.5" y="171" width="48" height="16" as="geometry" />
+          <mxGeometry x="2716.5" y="173" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="GfAPWV-OAkhMP6sfTaOb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.914;entryY=0.755;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6D1F00;endArrow=block;endFill=0;" edge="1" parent="1" source="GfAPWV-OAkhMP6sfTaOb-6" target="GfAPWV-OAkhMP6sfTaOb-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1462,7 +1462,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GfAPWV-OAkhMP6sfTaOb-12" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USDC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2952.5" y="176" width="48" height="16" as="geometry" />
+          <mxGeometry x="2952.5" y="175" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="GfAPWV-OAkhMP6sfTaOb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.736;exitY=0.006;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#6D1F00;exitPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="iYr-qbOok5K-OdR0lYau-1" target="GfAPWV-OAkhMP6sfTaOb-8">
           <mxGeometry relative="1" as="geometry">
@@ -1486,10 +1486,10 @@
           <mxGeometry x="2904.5" y="245" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3x-Y02Gwzbdg3Be1DgXw-1" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$STX&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2716.5" y="220" width="48" height="16" as="geometry" />
+          <mxGeometry x="2716.5" y="215" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3x-Y02Gwzbdg3Be1DgXw-2" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$STX&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2953.5" y="214" width="48" height="16" as="geometry" />
+          <mxGeometry x="2952.5" y="214" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3x-Y02Gwzbdg3Be1DgXw-3" value="&lt;font style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USDC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2997" y="234" width="48" height="16" as="geometry" />
