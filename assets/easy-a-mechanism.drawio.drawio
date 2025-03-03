@@ -1333,11 +1333,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mezJEJpERXzXheBWTv7M" name="fee">
-    <mxGraphModel dx="1319" dy="2114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1324" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GfAPWV-OAkhMP6sfTaOb-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USDC &amp;gt;&amp;gt; $STX&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;User has no gas fee&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" vertex="1" parent="1">
+        <mxCell id="GfAPWV-OAkhMP6sfTaOb-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$USDC &amp;gt;&amp;gt; $STX&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#e6a365&quot;&gt;EasyA abstracts protocol fee payment&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" vertex="1" parent="1">
           <mxGeometry x="2485" y="230" width="133" height="63" as="geometry" />
         </mxCell>
         <mxCell id="GfAPWV-OAkhMP6sfTaOb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.917;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GfAPWV-OAkhMP6sfTaOb-4">
@@ -1439,7 +1439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muqAnL8DT2wGLeviXGC5" name="interop">
-    <mxGraphModel dx="1330" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1447,7 +1447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ty_6-a5Gsz8yp4X0niPp" name="revenue">
-    <mxGraphModel dx="6087" dy="3636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
