@@ -1639,7 +1639,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MRy9jTT_UbdJfXdGEtaf" name="tnx">
-    <mxGraphModel dx="1891" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1652,7 +1652,7 @@
         <mxCell id="oNhxHutFb1GU5ABAvlft-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=228;tabHeight=0;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FEF9F8;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="-78" y="76" width="372" height="552" as="geometry" />
         </mxCell>
-        <mxCell id="wTZrpaHZyizEwe7Ta8im-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Aggregator&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTZrpaHZyizEwe7Ta8im-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Agnostic&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Aggregator&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="120" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wTZrpaHZyizEwe7Ta8im-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Contract&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
