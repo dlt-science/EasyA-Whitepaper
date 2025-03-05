@@ -2390,7 +2390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muqAnL8DT2wGLeviXGC5" name="interop">
-    <mxGraphModel dx="-1531" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1876" dy="336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2416,7 +2416,7 @@
           <mxGeometry x="2780.5" y="185" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pzZ4r2hNcUovzjM-MtMm-24" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$ETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2696" y="180.5" width="48" height="16" as="geometry" />
+          <mxGeometry x="2696" y="182.5" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="pzZ4r2hNcUovzjM-MtMm-28" value="&lt;font style=&quot;font-weight: normal; color: rgb(230, 163, 101); font-size: 12px;&quot;&gt;Assets&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontSize=14;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2767.18" y="298.5" width="28.9" height="12" as="geometry" />
@@ -2504,10 +2504,10 @@
           <mxGeometry x="2879.5" y="277" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EPUoAkjzUvRCnLGf6p5H-11" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$WETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2814" y="70" width="48" height="16" as="geometry" />
+          <mxGeometry x="2814" y="74" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EPUoAkjzUvRCnLGf6p5H-13" value="&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$ETH &amp;gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(230, 163, 101);&quot;&gt;$WETH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2950" y="177" width="99" height="16" as="geometry" />
+          <mxGeometry x="2951" y="180" width="99" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
