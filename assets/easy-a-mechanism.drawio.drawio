@@ -1425,7 +1425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mezJEJpERXzXheBWTv7M" name="fee">
-    <mxGraphModel dx="-1361" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1404" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1512,7 +1512,7 @@
             <mxPoint x="3041.5" y="305.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlkoGhPoA0jshKDvFeVS-10" value="&lt;span style=&quot;color: rgb(109, 31, 0);&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(109, 31, 0), rgb(252, 185, 158));&quot;&gt;token&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-68">
+        <mxCell id="HlkoGhPoA0jshKDvFeVS-10" value="&lt;span style=&quot;color: rgb(109, 31, 0);&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(109, 31, 0), rgb(252, 185, 158));&quot;&gt;token&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ECF3FE;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-68">
           <mxGeometry x="-0.1104" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="-2" as="offset" />
           </mxGeometry>
@@ -1577,7 +1577,7 @@
             <mxPoint x="2904.5" y="288.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlkoGhPoA0jshKDvFeVS-11" value="&lt;span style=&quot;color: rgb(0, 29, 188);&quot;&gt;execute swap&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-67">
+        <mxCell id="HlkoGhPoA0jshKDvFeVS-11" value="&lt;span style=&quot;color: rgb(0, 29, 188);&quot;&gt;execute swap&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ECF3FE;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-67">
           <mxGeometry x="0.4976" relative="1" as="geometry">
             <mxPoint x="25" y="-1" as="offset" />
           </mxGeometry>
@@ -1639,7 +1639,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlkoGhPoA0jshKDvFeVS-12" value="&lt;font color=&quot;#001dbc&quot;&gt;&lt;span&gt;settle&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#001dbc&quot;&gt;&lt;span&gt;fees&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-62">
+        <mxCell id="HlkoGhPoA0jshKDvFeVS-12" value="&lt;font color=&quot;#001dbc&quot;&gt;&lt;span&gt;settle&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#001dbc&quot;&gt;&lt;span&gt;fees&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ECF3FE;fontSize=15;" vertex="1" connectable="0" parent="UOqFwSuWQpri6rTRvskt-62">
           <mxGeometry x="0.6973" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
