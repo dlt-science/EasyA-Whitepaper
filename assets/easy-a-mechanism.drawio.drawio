@@ -1289,7 +1289,7 @@
         </mxCell>
         <mxCell id="OM2AhNVZ_rIZeWRUdtgu-12" value="&lt;span style=&quot;color: rgb(0, 29, 188); font-size: 15px;&quot;&gt;send validated&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 29, 188); font-size: 15px;&quot;&gt;execution&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 29, 188); font-size: 15px;&quot;&gt;method&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#EEEEEE;" vertex="1" connectable="0" parent="OM2AhNVZ_rIZeWRUdtgu-2">
           <mxGeometry x="0.0363" relative="1" as="geometry">
-            <mxPoint x="5" y="10" as="offset" />
+            <mxPoint x="5" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_dpEOLHSv9NwH5foQ7Cb-34" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Transaction&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Router&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeWidth=0.5;" vertex="1" parent="1">
