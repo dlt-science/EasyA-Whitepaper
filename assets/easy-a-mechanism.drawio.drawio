@@ -1428,7 +1428,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OM2AhNVZ_rIZeWRUdtgu-11" value="&lt;font style=&quot;color: rgb(0, 29, 188);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;submit&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;execution&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;details&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" parent="OM2AhNVZ_rIZeWRUdtgu-5" vertex="1" connectable="0">
+        <mxCell id="OM2AhNVZ_rIZeWRUdtgu-11" value="&lt;font style=&quot;color: rgb(0, 29, 188);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;submit&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 29, 188), rgb(178, 203, 255)); background-color: light-dark(rgb(255, 254, 240), rgb(21, 20, 8)); font-size: 15px;&quot;&gt;details&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" parent="OM2AhNVZ_rIZeWRUdtgu-5" vertex="1" connectable="0">
           <mxGeometry x="0.0059" y="1" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
