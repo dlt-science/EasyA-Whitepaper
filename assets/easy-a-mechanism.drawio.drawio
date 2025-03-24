@@ -1197,7 +1197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m3Ov4xRNI0-lVTf_0KRN" name="intents">
-    <mxGraphModel dx="-1239" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1860" dy="410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1522,7 +1522,7 @@
         </mxCell>
         <mxCell id="OM2AhNVZ_rIZeWRUdtgu-16" value="&lt;span style=&quot;color: rgb(109, 31, 0); font-size: 15px;&quot;&gt;notify&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(109, 31, 0); font-size: 15px;&quot;&gt;user&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FEF9F8;" parent="OM2AhNVZ_rIZeWRUdtgu-15" vertex="1" connectable="0">
           <mxGeometry x="0.4751" y="1" relative="1" as="geometry">
-            <mxPoint x="-11" y="3" as="offset" />
+            <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zo_Cm8lgOMgvgaJl6AP--63" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;BLOCKCHAIN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;LAYER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" vertex="1" parent="1">
