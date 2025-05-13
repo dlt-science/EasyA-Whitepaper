@@ -2687,7 +2687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zzCVB0pvgGECxzNero8a" name="mechanism">
-    <mxGraphModel dx="7786" dy="990" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7537" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3556,21 +3556,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3970" y="1351" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-4310" y="1340" />
-              <mxPoint x="-3970" y="1340" />
+              <mxPoint x="-4310" y="1348" />
+              <mxPoint x="-3970" y="1348" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u-_ukoH_wATqjKL3CkDs-15" value="&lt;font&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;forward fees&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#E6A365;labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="FPFSIbRgpZPEndL9jPnG-12">
           <mxGeometry x="0.1552" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FPFSIbRgpZPEndL9jPnG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.868;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=0;strokeColor=#001DBC;strokeWidth=1.5;" edge="1" parent="1" source="FPFSIbRgpZPEndL9jPnG-15" target="FPFSIbRgpZPEndL9jPnG-17">
+        <mxCell id="FPFSIbRgpZPEndL9jPnG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.729;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=0;strokeColor=#001DBC;strokeWidth=1.5;" edge="1" parent="1" source="FPFSIbRgpZPEndL9jPnG-15" target="FPFSIbRgpZPEndL9jPnG-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3923.9105" y="1428.883" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-4306" y="1459" />
+              <mxPoint x="-4328" y="1459" />
               <mxPoint x="-3924" y="1459" />
             </Array>
           </mxGeometry>
