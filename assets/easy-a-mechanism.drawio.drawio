@@ -4284,7 +4284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m3Ov4xRNI0-lVTf_0KRN" name="intents">
-    <mxGraphModel dx="-1009" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-617" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4294,8 +4294,8 @@
         <mxCell id="zo_Cm8lgOMgvgaJl6AP--56" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=225;tabHeight=1;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FFFEF0;strokeColor=none;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="2497" y="48" width="751" height="444" as="geometry" />
         </mxCell>
-        <mxCell id="zo_Cm8lgOMgvgaJl6AP--62" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=225;tabHeight=1;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#ECF3FE;strokeColor=none;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="2514" y="270" width="280" height="95" as="geometry" />
+        <mxCell id="zo_Cm8lgOMgvgaJl6AP--62" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=297;tabHeight=0;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#ECF3FE;strokeColor=none;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="2497" y="270" width="297" height="95" as="geometry" />
         </mxCell>
         <mxCell id="zo_Cm8lgOMgvgaJl6AP--61" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=225;tabHeight=1;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FEF9F8;strokeColor=none;strokeWidth=0;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="2499" y="48" width="418" height="222" as="geometry" />
@@ -4583,7 +4583,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zo_Cm8lgOMgvgaJl6AP--63" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;BLOCKCHAIN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;LAYER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="2566" y="271" width="193" height="32" as="geometry" />
+          <mxGeometry x="2553" y="270" width="193" height="32" as="geometry" />
         </mxCell>
         <mxCell id="zo_Cm8lgOMgvgaJl6AP--64" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;ABSTRACTION&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;LAYER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="2989.25" y="47" width="203" height="32" as="geometry" />
