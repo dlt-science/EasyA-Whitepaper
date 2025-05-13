@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="12">
   <diagram id="zzCVB0pvgGECxzNero8a" name="mechanism">
-    <mxGraphModel dx="15109" dy="4620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8896" dy="1540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2935,7 +2935,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bn1t4NZMWuHjTsZHBQzs" name="launchpad">
-    <mxGraphModel dx="1243" dy="64" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-545" dy="-1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3051,7 +3051,7 @@
             <mxPoint x="-58" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d7FL5HC4eRcZr9WM6BSL-94" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;EasyA&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Protocol&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeWidth=0.5;" parent="1" vertex="1">
+        <mxCell id="d7FL5HC4eRcZr9WM6BSL-94" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Orchestrator&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="1363" y="1385.76" width="78" height="35" as="geometry" />
         </mxCell>
         <mxCell id="d7FL5HC4eRcZr9WM6BSL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="d7FL5HC4eRcZr9WM6BSL-93" target="d7FL5HC4eRcZr9WM6BSL-3" edge="1">
@@ -3119,7 +3119,7 @@
             <mxPoint x="70" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ozEQDe52vgShXhrZM9Xp-44" value="&lt;span style=&quot;color: rgb(0, 102, 204);&quot;&gt;send&lt;/span&gt;&lt;div style=&quot;color: rgb(0, 102, 204);&quot;&gt;EASY&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" vertex="1" connectable="0" parent="d7FL5HC4eRcZr9WM6BSL-116">
+        <mxCell id="ozEQDe52vgShXhrZM9Xp-44" value="&lt;span style=&quot;color: rgb(0, 102, 204);&quot;&gt;send&lt;/span&gt;&lt;div style=&quot;color: rgb(0, 102, 204);&quot;&gt;EASY&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFEF0;" parent="d7FL5HC4eRcZr9WM6BSL-116" vertex="1" connectable="0">
           <mxGeometry x="0.176" relative="1" as="geometry">
             <mxPoint x="3" y="-30" as="offset" />
           </mxGeometry>
