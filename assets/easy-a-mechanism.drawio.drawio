@@ -4599,7 +4599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zzCVB0pvgGECxzNero8a" name="mechanism">
-    <mxGraphModel dx="9075" dy="2310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8488" dy="1980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4985,7 +4985,7 @@
           <mxGeometry x="-4189.38" y="1602" width="130" height="144" as="geometry" />
         </mxCell>
         <mxCell id="aM4TU2JyD5g_N8kgnx9Q-164" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;SETTLEMENT LAYER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="-4917" y="1528" width="192" height="32" as="geometry" />
+          <mxGeometry x="-4761.5" y="1548" width="192" height="32" as="geometry" />
         </mxCell>
         <mxCell id="aM4TU2JyD5g_N8kgnx9Q-166" value="&lt;font style=&quot;color: rgb(128, 128, 128); font-size: 23px;&quot;&gt;&lt;b&gt;EasyA SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="-4767.5" y="1093" width="188" height="40" as="geometry" />
