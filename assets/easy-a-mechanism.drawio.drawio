@@ -4599,7 +4599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zzCVB0pvgGECxzNero8a" name="mechanism">
-    <mxGraphModel dx="9315" dy="1980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9902" dy="2310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4984,8 +4984,8 @@
         <mxCell id="aM4TU2JyD5g_N8kgnx9Q-163" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dfolder%3BfontStyle%3D1%3BspacingTop%3D10%3BtabWidth%3D84%3BtabHeight%3D21%3BtabPosition%3Dleft%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-701%22%20y%3D%22824%22%20width%3D%22135%22%20height%3D%22139%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=0;tabPosition=left;html=1;whiteSpace=wrap;strokeWidth=0;fillColor=#ECF3FE;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4342.38" y="1582" width="130" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="aM4TU2JyD5g_N8kgnx9Q-164" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;BLOCKCHAIN PROTOCOLS LAYER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="-4915" y="1525.5" width="305" height="32" as="geometry" />
+        <mxCell id="aM4TU2JyD5g_N8kgnx9Q-164" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;b&gt;SETTLEMENT LAYER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;strokeWidth=0.8;" parent="1" vertex="1">
+          <mxGeometry x="-4917" y="1528" width="192" height="32" as="geometry" />
         </mxCell>
         <mxCell id="aM4TU2JyD5g_N8kgnx9Q-166" value="&lt;font style=&quot;color: rgb(128, 128, 128); font-size: 23px;&quot;&gt;&lt;b&gt;EasyA SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="-4920.5" y="1073" width="188" height="40" as="geometry" />
