@@ -5651,7 +5651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mezJEJpERXzXheBWTv7M" name="fee">
-    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1210" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5979,7 +5979,7 @@
         <mxCell id="69Y3X5APINrLLbvoPyOh-1" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;DeX&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="2768" y="328" width="124.5" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="69Y3X5APINrLLbvoPyOh-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px; caret-color: light-dark(rgb(57, 58, 52), rgb(187, 188, 183)); white-space: pre; color: light-dark(rgb(227, 17, 108), rgb(255, 135, 214)); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; background-color: transparent;&quot;&gt;Route $EASY to &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; color=&quot;#e3116c&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgb(57, 58, 52); white-space: pre;&quot;&gt;treasury&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;strokeWidth=0.2;strokeColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="69Y3X5APINrLLbvoPyOh-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px; caret-color: light-dark(rgb(57, 58, 52), rgb(187, 188, 183)); white-space: pre; color: light-dark(rgb(227, 17, 108), rgb(255, 135, 214)); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; background-color: transparent;&quot;&gt;Route $EASY to &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; color=&quot;#e3116c&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgb(57, 58, 52); white-space: pre;&quot;&gt;protocol treasury&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;strokeWidth=0.2;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="3016" y="423.5" width="150" height="38" as="geometry" />
         </mxCell>
         <mxCell id="69Y3X5APINrLLbvoPyOh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.337;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=0;strokeColor=#6D1F00;" edge="1" parent="1" source="GfAPWV-OAkhMP6sfTaOb-16" target="UOqFwSuWQpri6rTRvskt-56">
